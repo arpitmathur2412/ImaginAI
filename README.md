@@ -1,6 +1,6 @@
 # Image-to-Image Translation using Conditional GAN
 
-This repository contains an implementation of a Conditional Generative Adversarial Network (GAN) for image-to-image translation tasks. The model can transform input images from one domain to another while preserving essential details. For example, it can convert grayscale images to color images or satellite images to maps.
+This repository contains an implementation of a Conditional Generative Adversarial Network (GAN) for image-to-image translation tasks. The model can transform input images from one domain to another while preserving essential details.
 
 ## Setup and Dependencies
 
