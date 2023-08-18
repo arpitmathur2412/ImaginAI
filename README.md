@@ -51,4 +51,3 @@ If you find this code helpful for your research or project, please consider citi
 
 For any questions or issues, feel free to reach out to us.
 
-Happy image-to-image translation!
